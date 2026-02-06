@@ -1,0 +1,5 @@
+{
+  "name": "PlanejAI",
+  "description": "App para gestão financeira pessoal com registro manual e importação inteligente de faturas (PDF/CSV) usando IA para categorização automática.",
+  "requestFramePermissions": []
+}
